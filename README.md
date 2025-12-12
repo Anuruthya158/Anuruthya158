@@ -55,7 +55,7 @@ A responsive website built using HTML, CSS, and JS showcasing bridal and Arri co
 
 ### 🗂️ Digital Asset Tracker (Java + JDBC + MVC)  
 A console-based application to manage digital assets with CRUD operations and JDBC connectivity.
-🧩 Repo: _[link->](https://github.com/Anuruthya158/Digital-Asset-Tracker)_
+🧩 Repo: _[link->](https://github.com/Anuruthya158/Digital-Asset-Tracker
 
 ---
 
@@ -69,7 +69,7 @@ A console-based application to manage digital assets with CRUD operations and JD
 
 ## 📫 Connect with Me  
 **LinkedIn:** https://www.linkedin.com/in/anuruthya-s-b74216259/  
-**Portfolio:** [link->](https://anuruthya.neocities.org/My%20Portfolio/portfolio) 
+**Portfolio:** https://anuruthya.neocities.org/My%20Portfolio/portfolio
 
 ---
 
