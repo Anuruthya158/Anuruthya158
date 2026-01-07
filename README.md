@@ -6,7 +6,7 @@ user-friendly interfaces. My core interest lies in **UI/UX design**, but I am al
 skills in **Frontend Development** and exploring **Salesforce CRM** to broaden my career opportunities  
 as a well-rounded product/tech professional.
 
-My Portfolio: _[link](https://anuruthya.neocities.org/UI%20Portfolio/)_
+My UI/UX Portfolio: _[link](https://anuruthya.neocities.org/UI%20Portfolio/)_
 
 ---
 
